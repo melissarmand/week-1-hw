@@ -3,7 +3,8 @@
     padding: 0;
     margin: 0;
 }
-/*HEADER SECTION*/
+/*HEADER SECTION: This sections contains the header, navigation and the background image 
+which serves as a banner between the header and main sections*/
 
 body {
     background-color: #d9dcd6;
@@ -60,7 +61,7 @@ p {
     background-position: center;
 }
 
-/*MAIN SECTION*/
+/*MAIN SECTION: This section contains the main content of the page*/
 
 .float-left {
     float: left;
@@ -95,7 +96,7 @@ main {
     font-size: 36px;
 }
 
-/*ASIDE SECTION*/
+/*ASIDE SECTION: This sections sits to the right of the main content of the page*/
 
 aside {
     margin-right: 20px;
@@ -124,7 +125,7 @@ aside {
     max-width: 150px;
 }
 
-/*FOOTER*/
+/*FOOTER: This section includes everything in the footer aka the bottom :)*/
 
 footer {
     padding: 30px;
