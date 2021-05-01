@@ -2,7 +2,11 @@
     
 
 ## MY TASK
-    My task was to take an existing code and refactor it by improving the code without changing the end result. I did this my adding semantic HTML elements, making the website more accessible through alt tags, using a logical structure to group the different sections though out, and over all clean ups to create a more concise code.
+    My task was to take an existing code and refactor it by improving 
+    the code without changing the end result. 
+    I did this my adding semantic HTML elements, 
+    making the website more accessible through alt tags, using a logical structure to group the different sections though out, 
+    and over all clean ups to create a more concise code.
 
 ## User Story
 
